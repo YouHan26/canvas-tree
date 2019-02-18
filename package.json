@@ -1,8 +1,7 @@
 {
-  "name": "vue-tree",
+  "name": "canvas-tree",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/YouHan26/vue-tree.git",
-  "author": "youhan26 <youhan26@gmail.com>",
-  "license": "MIT"
+  "repository": "https://github.com/YouHan26/canvas-tree.git",
+  "author": "youhan26 <youhan26@gmail.com>"
 }
